@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "<Your Name> Personal Website"
+  title: "Perry Sorenson Personal Website"
   search:
     location: navbar
     type: overlay
@@ -55,8 +55,8 @@ format:
           &lt;Your Name&gt; Personal Website
         </div>
 
-site-url: "https://<yourusername>.github.io/<repositoryname>/"
-repo-url: "https://github.com/<yourusername>/<repositoryname>"
+site-url: "https://PerryWithAP.github.io/Wedsite-Workshop/"
+repo-url: "https://github.com/PerryWithAP/Wedsite-Workshop"
 repo-actions: [edit, issue]
 
 editor: visual
