@@ -25,9 +25,9 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
 <p style="text-align: center;">
 
 ```{=html}
-<img src="2-DSC00671.jpg" width="400px" height="400px" style="object-fit: cover;
+<img src="2-DSC00671.jpg" width="500px" height="500px" style="object-fit: cover;
               object-position: 50% 32%;
-              border: 3px solid #333;
+              border: 5px solid #333;
               margin-bottom: 30px;"/>
 ```
 
@@ -44,7 +44,9 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
   ============================================================ -->
 ```
 
-✏️ Write your bio here — who you are, what you study, and what you care about.
+Hello I am Perry,
+
+I am attending UNC Chapel Hill to obtain practical experience and a large skillset in the field of statistics and biostatistics and to apply the skills learned in research, personal projects, and data analysis opportunities. 
 
 ```{=html}
 <!-- ============================================================
@@ -55,7 +57,7 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
   ============================================================ -->
 ```
 
-[✏️ My Resume](example_resume.pdf)
+[My Resume](Sorenson Perry Resume.pdf)
 
 ```{=html}
 <!-- ============================================================
@@ -84,5 +86,5 @@ To view more information about my projects, please visit the [Projects](proj.qmd
 
 **Contact Information:**
 
--   Email: [✏️ youremail\@gmail.com](mailto:youremail@gmail.com)
--   LinkedIn: [✏️ Your Name](✏️%20https://www.linkedin.com/in/yourprofile)
+-   Email: [psor1241@unc.edu](mailto:psor1241@unc.edu)
+-   LinkedIn: [Perry Sorenson](https://www.linkedin.com/in/perry-sorenson-152245317/)
