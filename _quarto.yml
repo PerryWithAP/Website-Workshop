@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: yeti
     css: styles.css
     toc: true
     toc-location: right

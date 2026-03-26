@@ -24,10 +24,12 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
 
 <p style="text-align: center;">
 
-<img src="headshot.jpg" width="400px" height="400px" style="object-fit: cover;
+```{=html}
+<img src="2-DSC00671.jpg" width="400px" height="400px" style="object-fit: cover;
               object-position: 50% 32%;
               border: 3px solid #333;
               margin-bottom: 30px;"/>
+```
 
 </p>
 
