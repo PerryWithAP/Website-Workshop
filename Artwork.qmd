@@ -1,0 +1,15 @@
+---
+title: "Artwork"
+---
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="2-DSC00671.jpg" width="500px" height="500px" style="object-fit: cover;
+              object-position: 50% 32%;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
