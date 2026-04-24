@@ -18,7 +18,7 @@
     "href": "proj.html#project-title",
     "title": "Projects",
     "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ COMP 101 — Introduction to Programming\nDate: ✏️ Fall 2024\nTags: ✏️ Python Data Analysis Visualization \n✏️ Write 2–3 sentences describing what this project is about, what problem it solves, and what tools or methods you used. Keep it approachable — imagine explaining it to someone outside your major.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
+    "text": "✏️ Project Title\nCourse: ✏️ COMP 101 — Introduction to Programming\nDate: ✏️ Fall 2024\nTags: ✏️ Python Data Analysis Visualization  ✏️ Write 2–3 sentences describing what this project is about, what problem it solves, and what tools or methods you used. Keep it approachable — imagine explaining it to someone outside your major.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
   },
   {
     "objectID": "proj.html#project-title-1",
@@ -39,6 +39,13 @@
     "href": "index.html",
     "title": "Perry Sorenson’s Website",
     "section": "",
-    "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work."
+    "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work.\nVisit the Artwork tab to see examples of my work."
+  },
+  {
+    "objectID": "Artwork.html",
+    "href": "Artwork.html",
+    "title": "Artwork",
+    "section": "",
+    "text": "Medium: Bling Contour\nSize: 500 x 500\n\n\n\nMedium: Contour\nSize: 500 x 500\n\n\n\nMedium: Contour\nSize: 500 x 730\n\n\n\nMedium: Line Weight\nSize: 560 x 730\n\n\n\nMedium: Negative Space\nSize: 500 x 700\n\n\n\nMedium: Planes\nSize: 700 x 500\n\n\n\nMedium: Planes\nSize: 700 x 500\n\n\n\nMedium: Values\nSize: 500 x 800\n\n\n\nMedium: Perspective\nSize: 700 x 900\n\n\n\nMedium: Perspective\nSize: 700 x 800\n\n\n\nMedium: Perspective\nSize: 700 x 700\n\n\n\nMedium: Perspective\nSize: 900 x 1300\n\n\n\nMedium: Perspective\nSize: 700 x 500\n\n\n\nMedium: Collaborative Drawing\nSize: 900 x 1100\n\n\n\nMedium: Texture\nSize: 800 x 700\n\n\n\nMedium: Texture\nSize: 500 x 500\n\n\n\nMedium: Drapery\nSize: 950 x 1000\n\n\n\nMedium: Gesture Drawing\nSize: 700 x 500\n\n\n\nMedium: Words and Texture\nSize: 500 x 800"
   }
 ]
