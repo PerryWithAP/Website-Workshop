@@ -2,14 +2,327 @@
 title: "Artwork"
 ---
 
+
+
+
 <p style="text-align: center;">
 
 ```{=html}
-<img src="2-DSC00671.jpg" width="500px" height="500px" style="object-fit: cover;
-              object-position: 50% 32%;
+<img src="Drawing1.jpg" width="500px" height="500px" style="object-fit: cover;
+              margin-top: 70px;
               border: 5px solid #333;
               margin-bottom: 30px;"/>
 ```
 
 </p>
+
+**Medium:** Bling Contour
+
+**Size:** 500 x 500 
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing2.jpg" width="500px" height="500px" style="object-fit: cover;
+              margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Contour
+
+**Size:** 500 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing3.jpg" width="500px" height="730px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+
+**Medium:** Contour
+
+**Size:** 500 x 730 
+
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing4.jpg" width="560px" height="730px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Line Weight
+
+**Size:** 560 x 730 
+
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing5.jpg" width="500px" height="700px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Negative Space
+
+**Size:** 500 x 700 
+
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing6.jpg" width="700px" height="500px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Planes
+
+**Size:** 700 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing7.jpg" width="700px" height="500px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Planes
+
+**Size:** 700 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing8.jpg" width="500px" height="800px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Values
+
+**Size:** 500 x 800 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing9.jpg" width="700px" height="900px" style="object-fit: cover;
+              border: 5px solid #333;
+              margin-top: 70px;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Perspective
+
+**Size:** 700 x 900 
+
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing10.jpg" width="700px" height="800px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Perspective
+
+**Size:** 700 x 800 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing10.5.jpg" width="700px" height="700px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Perspective
+
+**Size:** 700 x 700 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing11.jpg" width="900px" height="1300px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Perspective
+
+**Size:** 900 x 1300 
+
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing12.jpg" width="700px" height="500px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Perspective
+
+**Size:** 700 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing13.jpg" width="900px" height="1100px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Collaborative Drawing
+
+**Size:** 900 x 1100 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing14.jpg" width="800px" height="700px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Texture
+
+**Size:** 800 x 700 
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing16.jpg" width="500px" height="500px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Texture
+
+**Size:** 500 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing15.jpg" width="950px" height="1000px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Drapery
+
+**Size:** 950 x 1000 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing17.jpg" width="700px" height="500px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Gesture Drawing
+
+**Size:** 700 x 500 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing18.jpg" width="500px" height="800px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+**Medium:** Words and Texture
+
+**Size:** 500 x 800 
+
+
+<p style="text-align: center;">
+
+```{=html}
+<img src="Drawing19.jpg" width="550px" height="500px" style="object-fit: cover;
+margin-top: 70px;
+              border: 5px solid #333;
+              margin-bottom: 30px;"/>
+```
+
+</p>
+
+
 

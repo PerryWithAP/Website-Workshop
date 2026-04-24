@@ -21,6 +21,8 @@ website:
         href: aboutme.qmd
       - text: "Projects"
         href: proj.qmd
+      - text: "Artwork"
+        href: Artwork.qmd
 
 format:
   html:

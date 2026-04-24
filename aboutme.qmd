@@ -46,7 +46,7 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
 
 Hello I am Perry,
 
-I am attending UNC Chapel Hill to obtain practical experience and a large skillset in the field of statistics and biostatistics and to apply the skills learned in research, personal projects, and data analysis opportunities. 
+I am attending UNC Chapel Hill to obtain practical experience and a large skillset in the field of statistics and biostatistics and to apply the skills learned in research, personal projects, and data analysis opportunities.
 
 ```{=html}
 <!-- ============================================================
@@ -57,7 +57,7 @@ I am attending UNC Chapel Hill to obtain practical experience and a large skills
   ============================================================ -->
 ```
 
-[My Resume](Sorenson Perry Resume.pdf)
+[My Resume](Sorenson%20Perry%20Resume.pdf)
 
 ```{=html}
 <!-- ============================================================
@@ -86,5 +86,5 @@ To view more information about my projects, please visit the [Projects](proj.qmd
 
 **Contact Information:**
 
--   Email: [psor1241@unc.edu](mailto:psor1241@unc.edu)
+-   Email: [psor1241\@unc.edu](mailto:psor1241@unc.edu)
 -   LinkedIn: [Perry Sorenson](https://www.linkedin.com/in/perry-sorenson-152245317/)
